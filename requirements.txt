@@ -1,7 +1,7 @@
 Flask>=1.1.1
 numpy>=1.17.4
 pandas>=0.25.3
-scikit>=0.21.3
+scikit>=0.22.2.post1
 xgboost>=0.90
 gunicorn==19.9.0
 itsdangerous==1.1.0
